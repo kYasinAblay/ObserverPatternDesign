@@ -1,0 +1,6 @@
+C:\Users\CODES YAZILIM\source\repos\ObserverblePatterndDesign\ObserverblePatterndDesign\bin\Debug\ObserverblePatterndDesign.exe.config
+C:\Users\CODES YAZILIM\source\repos\ObserverblePatterndDesign\ObserverblePatterndDesign\bin\Debug\ObserverblePatterndDesign.exe
+C:\Users\CODES YAZILIM\source\repos\ObserverblePatterndDesign\ObserverblePatterndDesign\bin\Debug\ObserverblePatterndDesign.pdb
+C:\Users\CODES YAZILIM\source\repos\ObserverblePatterndDesign\ObserverblePatterndDesign\obj\Debug\ObserverPatternDesign.csproj.CoreCompileInputs.cache
+C:\Users\CODES YAZILIM\source\repos\ObserverblePatterndDesign\ObserverblePatterndDesign\obj\Debug\ObserverblePatterndDesign.exe
+C:\Users\CODES YAZILIM\source\repos\ObserverblePatterndDesign\ObserverblePatterndDesign\obj\Debug\ObserverblePatterndDesign.pdb
